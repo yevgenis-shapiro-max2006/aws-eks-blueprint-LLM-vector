@@ -2,8 +2,8 @@
 
 
 
-## AWS | EKS Weaviate
-SonarQube is a code quality and application security platform. It analyzes your source code and finds problems before the code reaches production.
+## AWS | Weaviate Vector Database
+Weaviate is a cloud-native vector database that stores both objects and vectors, enabling semantic search at scale. It combines vector similarity search with keyword filtering, retrieval-augmented generation (RAG), and reranking in a single query interface. Common use cases include RAG systems, semantic and image search, recommendation engines, chatbots, and content classification
 
 
 
